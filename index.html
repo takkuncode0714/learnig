@@ -16,24 +16,24 @@
       <label>時間を設定:</label>
       <div class="time-inputs">
         <div class="time-input-group">
-          <input type="number" id="hours" min="0" max="99" value="0" placeholder="0">
-          <span>時間</span>
+          <input type="number" id="hours" min="0" max="99" value="0">
+          <label for="hours">時間</label>
         </div>
         <div class="time-input-group">
-          <input type="number" id="minutes" min="0" max="59" value="0" placeholder="0">
-          <span>分</span>
+          <input type="number" id="minutes" min="0" max="59" value="0">
+          <label for="minutes">分</label>
         </div>
         <div class="time-input-group">
-          <input type="number" id="seconds" min="0" max="59" value="0" placeholder="0">
-          <span>秒</span>
+          <input type="number" id="seconds" min="0" max="59" value="0">
+          <label for="seconds">秒</label>
         </div>
       </div>
     </div>
 
     <div class="controls">
-      <button id="startBtn" class="btn btn-start" onclick="startTimer()">スタート</button>
-      <button id="pauseBtn" class="btn btn-pause" onclick="pauseTimer()" disabled>一時停止</button>
-      <button id="resetBtn" class="btn btn-reset" onclick="resetTimer()">リセット</button>
+      <button id="startBtn" class="btn btn-start">スタート</button>
+      <button id="pauseBtn" class="btn btn-pause" disabled>一時停止</button>
+      <button id="resetBtn" class="btn btn-reset">リセット</button>
     </div>
 
     <div class="progress-container">
