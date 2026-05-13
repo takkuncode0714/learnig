@@ -1,0 +1,381 @@
+[
+  {
+    "id": 1,
+    "name": "マリオンクレープ 原宿竹下口店",
+    "area": "原宿",
+    "category": "クレープ",
+    "tags": ["クレープ", "スイーツ", "テイクアウト", "アイスクリーム"],
+    "menu": [
+      { "name": "苺とクリームのクレープ", "price": 680 },
+      { "name": "チョコバナナクレープ", "price": 620 },
+      { "name": "キャラメルアイスクレープ", "price": 650 }
+    ],
+    "address": "東京都渋谷区神宮前1-6-15",
+    "googleMapsUrl": "https://maps.google.com/?q=マリオンクレープ+原宿",
+    "priceRange": "¥500〜¥1,000",
+    "rating": 4.1,
+    "hours": "10:00〜20:00",
+    "color": "#FF6B9D"
+  },
+  {
+    "id": 2,
+    "name": "原宿餃子楼",
+    "area": "原宿",
+    "category": "餃子",
+    "tags": ["餃子", "中華", "ビール", "ランチ", "ディナー"],
+    "menu": [
+      { "name": "焼き餃子（12個）", "price": 540 },
+      { "name": "水餃子", "price": 600 },
+      { "name": "揚げ餃子", "price": 580 },
+      { "name": "ビール（生）", "price": 550 }
+    ],
+    "address": "東京都渋谷区神宮前6-2-4",
+    "googleMapsUrl": "https://maps.google.com/?q=原宿餃子楼",
+    "priceRange": "¥1,000〜¥2,000",
+    "rating": 4.3,
+    "hours": "11:30〜23:00",
+    "color": "#FF9F43"
+  },
+  {
+    "id": 3,
+    "name": "Café Kitsuné 青山店",
+    "area": "表参道",
+    "category": "カフェ",
+    "tags": ["コーヒー", "カフェラテ", "カプチーノ", "マカロン", "テイクアウト"],
+    "menu": [
+      { "name": "ドリップコーヒー", "price": 600 },
+      { "name": "カフェラテ", "price": 700 },
+      { "name": "マッチャラテ", "price": 750 },
+      { "name": "マカロン", "price": 350 }
+    ],
+    "address": "東京都渋谷区神宮前3-17-1",
+    "googleMapsUrl": "https://maps.google.com/?q=Café+Kitsuné+青山",
+    "priceRange": "¥500〜¥1,500",
+    "rating": 4.4,
+    "hours": "10:00〜19:00",
+    "color": "#26de81"
+  },
+  {
+    "id": 4,
+    "name": "Blue Bottle Coffee 青山カフェ",
+    "area": "表参道",
+    "category": "カフェ",
+    "tags": ["コーヒー", "エスプレッソ", "カフェラテ", "コールドブリュー", "スイーツ"],
+    "menu": [
+      { "name": "シングルオリジンドリップ", "price": 700 },
+      { "name": "カフェラテ", "price": 750 },
+      { "name": "コールドブリュー", "price": 800 },
+      { "name": "スコーン", "price": 450 }
+    ],
+    "address": "東京都港区南青山3-13-14",
+    "googleMapsUrl": "https://maps.google.com/?q=Blue+Bottle+Coffee+青山",
+    "priceRange": "¥500〜¥1,500",
+    "rating": 4.3,
+    "hours": "08:00〜19:00",
+    "color": "#4a90d9"
+  },
+  {
+    "id": 5,
+    "name": "AFURI 原宿店",
+    "area": "原宿",
+    "category": "ラーメン",
+    "tags": ["ラーメン", "柚子塩ラーメン", "つけ麺", "ビール", "ランチ"],
+    "menu": [
+      { "name": "柚子塩らーめん", "price": 1100 },
+      { "name": "柚子醤油らーめん", "price": 1100 },
+      { "name": "つけめん 柚子塩", "price": 1200 },
+      { "name": "半熟味玉", "price": 120 }
+    ],
+    "address": "東京都渋谷区千駄ヶ谷3-59-1",
+    "googleMapsUrl": "https://maps.google.com/?q=AFURI+原宿",
+    "priceRange": "¥1,000〜¥2,000",
+    "rating": 4.4,
+    "hours": "11:00〜23:00",
+    "color": "#fd9644"
+  },
+  {
+    "id": 6,
+    "name": "bills 表参道",
+    "area": "表参道",
+    "category": "カフェ・ブランチ",
+    "tags": ["パンケーキ", "リコッタパンケーキ", "朝食", "ブランチ", "コーヒー", "スムージー"],
+    "menu": [
+      { "name": "リコッタパンケーキ", "price": 2100 },
+      { "name": "フレンチトースト", "price": 1900 },
+      { "name": "エッグスベネディクト", "price": 2000 },
+      { "name": "新鮮フルーツスムージー", "price": 1200 }
+    ],
+    "address": "東京都渋谷区神宮前4-30-3",
+    "googleMapsUrl": "https://maps.google.com/?q=bills+表参道",
+    "priceRange": "¥1,500〜¥3,000",
+    "rating": 4.2,
+    "hours": "09:00〜21:00",
+    "color": "#f7c59f"
+  },
+  {
+    "id": 7,
+    "name": "根津やまいち 表参道店",
+    "area": "表参道",
+    "category": "和食",
+    "tags": ["寿司", "刺身", "日本酒", "ランチ", "ディナー", "お酒"],
+    "menu": [
+      { "name": "握り寿司ランチ（10貫）", "price": 2500 },
+      { "name": "刺身盛り合わせ", "price": 2800 },
+      { "name": "日本酒（1合）", "price": 880 },
+      { "name": "茶碗蒸し", "price": 600 }
+    ],
+    "address": "東京都渋谷区神宮前5-51-8",
+    "googleMapsUrl": "https://maps.google.com/?q=根津やまいち+表参道",
+    "priceRange": "¥2,000〜¥5,000",
+    "rating": 4.5,
+    "hours": "11:30〜22:00",
+    "color": "#778ca3"
+  },
+  {
+    "id": 8,
+    "name": "AS CLASSICS DINER 表参道",
+    "area": "表参道",
+    "category": "アメリカン",
+    "tags": ["ハンバーガー", "クラフトビール", "フライドポテト", "ミルクシェイク", "ランチ"],
+    "menu": [
+      { "name": "クラシックバーガー", "price": 1480 },
+      { "name": "チーズバーガー", "price": 1580 },
+      { "name": "クラフトビール（パイント）", "price": 900 },
+      { "name": "バニラミルクシェイク", "price": 750 }
+    ],
+    "address": "東京都渋谷区神宮前4-26-18",
+    "googleMapsUrl": "https://maps.google.com/?q=AS+CLASSICS+DINER+表参道",
+    "priceRange": "¥1,500〜¥3,000",
+    "rating": 4.0,
+    "hours": "11:00〜22:00",
+    "color": "#e55039"
+  },
+  {
+    "id": 9,
+    "name": "HARAJUKU CHICAGO",
+    "area": "原宿",
+    "category": "カフェ",
+    "tags": ["クリームソーダ", "プリン", "コーヒー", "レトロ", "スイーツ"],
+    "menu": [
+      { "name": "クリームソーダ", "price": 780 },
+      { "name": "自家製プリン", "price": 580 },
+      { "name": "ホットコーヒー", "price": 550 },
+      { "name": "あんみつ", "price": 880 }
+    ],
+    "address": "東京都渋谷区神宮前4-32-11",
+    "googleMapsUrl": "https://maps.google.com/?q=HARAJUKU+CHICAGO",
+    "priceRange": "¥500〜¥1,500",
+    "rating": 4.1,
+    "hours": "11:00〜20:00",
+    "color": "#a29bfe"
+  },
+  {
+    "id": 10,
+    "name": "とんかつ まい泉 原宿本店",
+    "area": "原宿",
+    "category": "とんかつ",
+    "tags": ["とんかつ", "ヒレかつ", "ロースかつ", "カツサンド", "定食", "ランチ"],
+    "menu": [
+      { "name": "ヒレかつ定食", "price": 2100 },
+      { "name": "ロースかつ定食", "price": 1900 },
+      { "name": "ヒレかつサンドイッチ（テイクアウト）", "price": 1080 },
+      { "name": "カキフライ定食", "price": 2000 }
+    ],
+    "address": "東京都渋谷区神宮前4-8-5",
+    "googleMapsUrl": "https://maps.google.com/?q=まい泉+原宿本店",
+    "priceRange": "¥1,500〜¥3,000",
+    "rating": 4.4,
+    "hours": "11:00〜21:30",
+    "color": "#f9ca24"
+  },
+  {
+    "id": 11,
+    "name": "Omotesando Koffee",
+    "area": "表参道",
+    "category": "カフェ",
+    "tags": ["コーヒー", "エスプレッソ", "抹茶", "クッキー", "テイクアウト"],
+    "menu": [
+      { "name": "エスプレッソ", "price": 500 },
+      { "name": "フラットホワイト", "price": 650 },
+      { "name": "抹茶ラテ", "price": 700 },
+      { "name": "クッキー", "price": 300 }
+    ],
+    "address": "東京都渋谷区神宮前4-15-3",
+    "googleMapsUrl": "https://maps.google.com/?q=Omotesando+Koffee",
+    "priceRange": "¥400〜¥1,000",
+    "rating": 4.5,
+    "hours": "11:00〜19:00",
+    "color": "#6c5ce7"
+  },
+  {
+    "id": 12,
+    "name": "鎌倉パスタ 表参道店",
+    "area": "表参道",
+    "category": "パスタ・イタリアン",
+    "tags": ["パスタ", "ピザ", "ランチ", "ワイン", "イタリアン"],
+    "menu": [
+      { "name": "明太子クリームパスタ", "price": 1380 },
+      { "name": "カルボナーラ", "price": 1350 },
+      { "name": "マルゲリータピザ", "price": 1480 },
+      { "name": "グラスワイン", "price": 680 }
+    ],
+    "address": "東京都渋谷区神宮前5-50-6",
+    "googleMapsUrl": "https://maps.google.com/?q=鎌倉パスタ+表参道",
+    "priceRange": "¥1,000〜¥2,500",
+    "rating": 3.9,
+    "hours": "11:00〜22:00",
+    "color": "#00b894"
+  },
+  {
+    "id": 13,
+    "name": "TREE by NAKED yoyogi park",
+    "area": "原宿",
+    "category": "カフェ",
+    "tags": ["カフェ", "ソフトクリーム", "コーヒー", "クラフトビール", "テラス席"],
+    "menu": [
+      { "name": "ソフトクリーム", "price": 500 },
+      { "name": "クラフトビール", "price": 900 },
+      { "name": "レモネード", "price": 700 },
+      { "name": "パンケーキ", "price": 1200 }
+    ],
+    "address": "東京都渋谷区神宮前1-23-16",
+    "googleMapsUrl": "https://maps.google.com/?q=TREE+by+NAKED+yoyogi+park",
+    "priceRange": "¥500〜¥1,500",
+    "rating": 4.2,
+    "hours": "10:00〜21:00",
+    "color": "#55efc4"
+  },
+  {
+    "id": 14,
+    "name": "表参道 よし田",
+    "area": "表参道",
+    "category": "天ぷら",
+    "tags": ["天ぷら", "天丼", "日本酒", "ランチ", "和食"],
+    "menu": [
+      { "name": "天ぷら定食", "price": 2200 },
+      { "name": "海老天丼", "price": 1800 },
+      { "name": "野菜天ぷら盛り合わせ", "price": 1500 },
+      { "name": "冷酒（1合）", "price": 900 }
+    ],
+    "address": "東京都渋谷区神宮前5-6-24",
+    "googleMapsUrl": "https://maps.google.com/?q=表参道+よし田",
+    "priceRange": "¥1,500〜¥4,000",
+    "rating": 4.4,
+    "hours": "11:30〜21:30",
+    "color": "#fdcb6e"
+  },
+  {
+    "id": 15,
+    "name": "LUKE'S LOBSTER 原宿",
+    "area": "原宿",
+    "category": "シーフード",
+    "tags": ["ロブスターロール", "シーフード", "クラムチャウダー", "クラフトビール"],
+    "menu": [
+      { "name": "ロブスターロール", "price": 2200 },
+      { "name": "シュリンプロール", "price": 1800 },
+      { "name": "クラムチャウダー", "price": 900 },
+      { "name": "クラフトビール", "price": 800 }
+    ],
+    "address": "東京都渋谷区神宮前4-28-12",
+    "googleMapsUrl": "https://maps.google.com/?q=LUKE'S+LOBSTER+原宿",
+    "priceRange": "¥1,500〜¥3,000",
+    "rating": 4.3,
+    "hours": "11:00〜21:00",
+    "color": "#fd79a8"
+  },
+  {
+    "id": 16,
+    "name": "茶茶の間",
+    "area": "表参道",
+    "category": "日本茶カフェ",
+    "tags": ["日本茶", "抹茶", "ほうじ茶", "和スイーツ", "わらびもち", "お茶"],
+    "menu": [
+      { "name": "宇治抹茶パフェ", "price": 1500 },
+      { "name": "わらびもちセット", "price": 1200 },
+      { "name": "煎茶（各種）", "price": 800 },
+      { "name": "ほうじ茶ラテ", "price": 750 }
+    ],
+    "address": "東京都渋谷区神宮前5-13-14",
+    "googleMapsUrl": "https://maps.google.com/?q=茶茶の間+表参道",
+    "priceRange": "¥800〜¥2,000",
+    "rating": 4.6,
+    "hours": "11:00〜19:30",
+    "color": "#00b09b"
+  },
+  {
+    "id": 17,
+    "name": "麺屋武蔵 武骨相傳 原宿",
+    "area": "原宿",
+    "category": "ラーメン",
+    "tags": ["ラーメン", "つけ麺", "濃厚スープ", "チャーシュー", "ランチ"],
+    "menu": [
+      { "name": "つけ麺（並）", "price": 1150 },
+      { "name": "武蔵らーめん", "price": 1050 },
+      { "name": "特製チャーシュー丼（セット）", "price": 350 },
+      { "name": "味玉", "price": 150 }
+    ],
+    "address": "東京都渋谷区神宮前6-10-12",
+    "googleMapsUrl": "https://maps.google.com/?q=麺屋武蔵+原宿",
+    "priceRange": "¥1,000〜¥2,000",
+    "rating": 4.2,
+    "hours": "11:00〜23:00",
+    "color": "#e17055"
+  },
+  {
+    "id": 18,
+    "name": "ヴィロン 渋谷",
+    "area": "原宿",
+    "category": "ベーカリー・カフェ",
+    "tags": ["パン", "クロワッサン", "バゲット", "コーヒー", "ランチ", "ブランチ"],
+    "menu": [
+      { "name": "クロワッサン", "price": 280 },
+      { "name": "バゲット", "price": 350 },
+      { "name": "サンドイッチランチセット", "price": 1800 },
+      { "name": "カフェオレ", "price": 700 }
+    ],
+    "address": "東京都渋谷区宇田川町33-8",
+    "googleMapsUrl": "https://maps.google.com/?q=ヴィロン+渋谷",
+    "priceRange": "¥500〜¥2,500",
+    "rating": 4.3,
+    "hours": "10:00〜22:00",
+    "color": "#fab1a0"
+  },
+  {
+    "id": 19,
+    "name": "ANNIVERSAIRE CAFÉ 表参道",
+    "area": "表参道",
+    "category": "カフェ・フレンチ",
+    "tags": ["コーヒー", "ランチ", "テラス席", "パスタ", "ケーキ", "ワイン"],
+    "menu": [
+      { "name": "アニヴェルセルプレートランチ", "price": 2500 },
+      { "name": "テラスコーヒーセット", "price": 1200 },
+      { "name": "チーズケーキ", "price": 900 },
+      { "name": "グラスシャンパン", "price": 1200 }
+    ],
+    "address": "東京都渋谷区神宮前3-5-30",
+    "googleMapsUrl": "https://maps.google.com/?q=ANNIVERSAIRE+CAFÉ+表参道",
+    "priceRange": "¥1,500〜¥4,000",
+    "rating": 4.1,
+    "hours": "10:00〜22:00",
+    "color": "#e84393"
+  },
+  {
+    "id": 20,
+    "name": "長寿庵 神宮前店",
+    "area": "原宿",
+    "category": "そば",
+    "tags": ["そば", "天ぷら", "うどん", "日本酒", "ランチ", "和食"],
+    "menu": [
+      { "name": "もりそば", "price": 850 },
+      { "name": "天ざるそば", "price": 1600 },
+      { "name": "鴨せいろ", "price": 1800 },
+      { "name": "日本酒（1合）", "price": 800 }
+    ],
+    "address": "東京都渋谷区神宮前3-38-11",
+    "googleMapsUrl": "https://maps.google.com/?q=長寿庵+神宮前",
+    "priceRange": "¥800〜¥2,500",
+    "rating": 4.3,
+    "hours": "11:30〜21:00",
+    "color": "#636e72"
+  }
+]
